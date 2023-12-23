@@ -1,0 +1,11 @@
+{
+  "name": "facturapp",
+  "displayName": "facturapp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "62ceaeb5-6aee-4ade-bf4c-764b10ebe524"
+      }
+    }
+  }
+}
